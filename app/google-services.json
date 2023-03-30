@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1050892365621",
+    "firebase_url": "https://rapid-car-rentals-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "rapid-car-rentals",
+    "storage_bucket": "rapid-car-rentals.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050892365621:android:5d2987316f782a7484267c",
+        "android_client_info": {
+          "package_name": "com.example.rapidrentals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050892365621-julc2d0aq1948uc6q66iqfddjcs3389u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz3K0_w7wdlmuLN5BWy3xVEBCqOL9v-mE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050892365621-julc2d0aq1948uc6q66iqfddjcs3389u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

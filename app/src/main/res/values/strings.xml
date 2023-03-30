@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Rapid Rentals</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="new_user_register_here">New User? Register Here</string>
+    <string name="developer_credits">Created By TEAM</string>
+    <string name="categories">Categories</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_booking">Booking</string>
+    <string name="title_add">Add</string>
+    <string name="title_user">User</string>
+    <string name="car_brand">Brand</string>
+    <string name="car_fuel">Fuel Type</string>
+    <string name="car_model">Model</string>
+    <string name="car_type">Type</string>
+    <string name="car_seats">Seats</string>
+    <string name="car_year">Year</string>
+    <string name="car_reg_number">License Plate Number</string>
+    <string name="car_transmission">Transmission</string>
+    <string name="car_rent">Rent Per Day</string>
+    <string name="action_camera_only">Camera Only</string>
+    <string name="action_gallery_only">Gallery Only</string>
+
+    <string-array name="car_fuel">
+        <item>Petrol</item>
+        <item>Diesel</item>
+        <item>Electric</item>
+    </string-array>
+
+    <string-array name="car_type">
+        <item>Sports</item>
+        <item>Sedan</item>
+        <item>Luxury</item>
+        <item>Coupe</item>
+    </string-array>
+
+    <string-array name="car_transmission">
+        <item>Manual</item>
+        <item>Automatic</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
